@@ -1,30 +1,34 @@
+Airbnb Data Analysis
+
 Project Overview
-This project analyzes Airbnb listings data to uncover insights about pricing trends, availability, host distribution, and other key factors affecting Airbnb performance in a given location. The analysis is performed using Power BI, with data preprocessing in SQL/Python.
+This project analyzes **Airbnb listings** using **Power BI** to uncover key insights about pricing, availability, and host performance. The goal is to help hosts, travelers, and stakeholders make data-driven decisions based on Airbnb market trends.
 
-Objective
-Understand price variations across different locations and property types.
-Identify top hosts and their property distribution.
-Analyze occupancy trends based on availability and reviews.
-Detect patterns in customer preferences (room type, neighborhood, etc.).
-
-Dataset
-Source: Kaggle / Inside Airbnb
-Columns Included: Listing ID, Name, Host ID, Room Type, Price, Minimum Nights, Availability, Number of Reviews, etc.
-
-Key Insights
-High-priced neighborhoods: Certain areas have significantly higher listing prices.
-Superhosts vs Regular Hosts: Superhosts tend to have higher review scores and occupancy rates.
-Seasonal Trends: Price and availability fluctuate based on demand.
-Room Type Preference: Entire homes are the most popular, but private rooms offer affordability.
+Key Insights & Visualizations
+- **Pricing Trends:** Analyze how listing prices vary based on location, property type, and seasonality.
+- **Occupancy Rates:** Identify high and low-demand periods using availability and booking data.
+- **Host Performance:** Evaluate top-performing hosts based on reviews, ratings, and number of listings.
+- **Geographical Distribution:** Map visualization of Airbnb listings to understand supply concentration.
 
 Tools Used
-Power BI → Data visualization & dashboard creation
-SQL → Data cleaning and transformation
+- **Power BI** for data visualization
+- **SQL/Python** (if applicable) for data cleaning and transformation
+- **Excel/CSV** as data source
 
-How to Use
-Download the dataset from the Data folder.
-Open the Power BI file (.pbix) in Power BI Desktop.
-Explore the interactive dashboard.
+Dataset
+- Source: Airbnb Open Data (Kaggle / Inside Airbnb)
+- Fields: `Price`, `Room Type`, `Location`, `Availability`, `Number of Reviews`, `Host Name`, `Latitude`, `Longitude`, etc.
 
-Contact
-For any questions, feel free to reach out via https://www.linkedin.com/in/abidsolihin/
+Key Takeaways
+- **Luxury Listings:** The highest-priced listings tend to be entire homes in prime locations.
+- **Seasonality Effects:** Booking rates increase during holiday seasons.
+- **Superhosts Impact:** Listings by Superhosts tend to have higher ratings and occupancy.
+
+Future Improvements
+- Predictive modeling for price optimization
+- Sentiment analysis on reviews to gauge customer satisfaction
+- Deeper analysis on neighborhood trends
+
+---
+**Author:** A'bid Solihin 
+📅 **Date:** 21/3/2025 
+🔗 **Portfolio:** https://www.linkedin.com/in/abidsolihin/
