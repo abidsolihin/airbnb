@@ -20,7 +20,6 @@ Room Type Preference: Entire homes are the most popular, but private rooms offer
 Tools Used
 Power BI → Data visualization & dashboard creation
 SQL → Data cleaning and transformation
-Excel/Python → Preprocessing (if applicable)
 
 How to Use
 Download the dataset from the Data folder.
@@ -28,4 +27,4 @@ Open the Power BI file (.pbix) in Power BI Desktop.
 Explore the interactive dashboard.
 
 Contact
-For any questions, feel free to reach out via [LinkedIn/GitHub] (Insert your profile link).
+For any questions, feel free to reach out via https://www.linkedin.com/in/abidsolihin/
