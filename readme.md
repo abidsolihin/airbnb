@@ -7,7 +7,7 @@ Identify top hosts and their property distribution.
 Analyze occupancy trends based on availability and reviews.
 Detect patterns in customer preferences (room type, neighborhood, etc.).
 
-🗂 Dataset
+Dataset
 Source: Kaggle / Inside Airbnb
 Columns Included: Listing ID, Name, Host ID, Room Type, Price, Minimum Nights, Availability, Number of Reviews, etc.
 
